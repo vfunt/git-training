@@ -1,1 +1,2 @@
 #file added in development branch
+#git configuration has been changed
